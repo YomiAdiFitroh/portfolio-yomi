@@ -40,7 +40,7 @@ function Skills() {
                 Tech Stack
             </span>
 
-            <h2 className="text-5xl font-bold text-slate-900 leading-tight">
+            <h2 className="text-5xl font-bold text-purple-900 leading-tight">
                 Technologies I Use
             </h2>
 
