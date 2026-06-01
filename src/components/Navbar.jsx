@@ -86,7 +86,7 @@ function Navbar() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href={resume}
               className="mt-2 px-4 py-3 bg-indigo-600 text-white rounded-xl text-center"
             >
               Resume
